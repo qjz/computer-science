@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T02:30:33.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="gos1pEoMZLBFWIlb6qOj" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T06:38:58.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="CwgoTxEIbYq_HPYgoOfa" version="16.2.2" type="github">
   <diagram id="-oJkVD_7Ih6nB59Dtojz" name="Page-1">
     <mxGraphModel dx="2125" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,112 +37,115 @@
         <mxCell id="1MYz2hx4UhRH03Z16O1i-5" value="Булевые" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MYz2hx4UhRH03Z16O1i-10" target="pl5QC2sezC5LVriJKC8H-96">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1MYz2hx4UhRH03Z16O1i-10" target="pl5QC2sezC5LVriJKC8H-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1MYz2hx4UhRH03Z16O1i-10" value="Signed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Mz-UhmMmjQaCfzQfxJ7p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MYz2hx4UhRH03Z16O1i-11" target="pl5QC2sezC5LVriJKC8H-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1MYz2hx4UhRH03Z16O1i-11" value="Unsigned" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-28" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-28" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="-620" y="140" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-28">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pl5QC2sezC5LVriJKC8H-28" vertex="1">
           <mxGeometry width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-30" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;7&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-29">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-30" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;7&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-29" vertex="1">
           <mxGeometry width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-31" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;6&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-29">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-31" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;6&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-29" vertex="1">
           <mxGeometry x="30" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-32" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;5&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-29">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-32" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;5&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-29" vertex="1">
           <mxGeometry x="60" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-41" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;4&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-29">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-41" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;4&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-29" vertex="1">
           <mxGeometry x="90" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-44" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;3&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-29">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-44" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;3&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-29" vertex="1">
           <mxGeometry x="120" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-47" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-29">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-47" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-29" vertex="1">
           <mxGeometry x="150" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-50" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;1&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-29">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-50" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;1&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-29" vertex="1">
           <mxGeometry x="180" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-53" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;0&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-29">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-53" value="&lt;span&gt;2&lt;/span&gt;&lt;sup&gt;0&lt;/sup&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-29" vertex="1">
           <mxGeometry x="210" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-28">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pl5QC2sezC5LVriJKC8H-28" vertex="1">
           <mxGeometry y="20" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-34" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-33">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-34" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-33" vertex="1">
           <mxGeometry width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-35" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-33">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-35" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-33" vertex="1">
           <mxGeometry x="30" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-36" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-33">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-36" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-33" vertex="1">
           <mxGeometry x="60" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-42" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-33">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-42" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-33" vertex="1">
           <mxGeometry x="90" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-45" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-33">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-45" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-33" vertex="1">
           <mxGeometry x="120" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-48" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-33">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-48" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-33" vertex="1">
           <mxGeometry x="150" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-51" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-33">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-51" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-33" vertex="1">
           <mxGeometry x="180" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-54" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="pl5QC2sezC5LVriJKC8H-33">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-54" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pl5QC2sezC5LVriJKC8H-33" vertex="1">
           <mxGeometry x="210" width="30" height="20" as="geometry">
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-95" value="&lt;table border=&quot;1&quot; style=&quot;border: 1px solid rgb(0 , 0 , 0) ; border-collapse: collapse&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;7&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;6&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;5&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;4&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;3&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;1&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-95" value="&lt;table border=&quot;1&quot; style=&quot;border: 1px solid rgb(0 , 0 , 0) ; border-collapse: collapse&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;7&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;6&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;5&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;4&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;3&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;1&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="220" width="370" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-96" value="Прямой код.&lt;br&gt;Старший бит отображает знак - 0(+), 1(-).&lt;br&gt;&lt;br&gt;&lt;table border=&quot;1&quot; style=&quot;border: 1px solid rgb(0 , 0 , 0) ; border-collapse: collapse&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;7&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;6&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;5&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;4&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;3&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;1&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;(-)&lt;sup&gt;&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;6&amp;nbsp;&lt;/sup&gt;+ 0*2&lt;sup&gt;5&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;4&amp;nbsp;&lt;/sup&gt;+ 0*2&lt;sup&gt;3&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;2&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;1&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;= -87&lt;sub&gt;10&lt;/sub&gt;&lt;br&gt;Диапазон значений от -2&lt;sup&gt;n&lt;/sup&gt;/2 - 1 до&amp;nbsp;2&lt;sup&gt;n&lt;/sup&gt;/2 - 1, где n - количество бит.&lt;br&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;Проблемы:&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;положительный и отрицательный нули;&lt;br&gt;&lt;/li&gt;&lt;li&gt;сравнение с нулями;&lt;/li&gt;&lt;li&gt;арифметические операции требуют преобразования отрицательных чисел.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pl5QC2sezC5LVriJKC8H-96" value="Прямой код.&lt;br&gt;Старший бит отображает знак - 0(+), 1(-).&lt;br&gt;&lt;br&gt;&lt;table border=&quot;1&quot; style=&quot;border: 1px solid rgb(0 , 0 , 0) ; border-collapse: collapse&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;7&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;6&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;5&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;4&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;3&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;1&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;(-)&lt;sup&gt;&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;6&amp;nbsp;&lt;/sup&gt;+ 0*2&lt;sup&gt;5&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;4&amp;nbsp;&lt;/sup&gt;+ 0*2&lt;sup&gt;3&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;2&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;1&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;= -87&lt;sub&gt;10&lt;/sub&gt;&lt;br&gt;Диапазон значений от -2&lt;sup&gt;n&lt;/sup&gt;/2 - 1 до&amp;nbsp;2&lt;sup&gt;n&lt;/sup&gt;/2 - 1, где n - количество бит.&lt;br&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px ; border: none ; padding: 0px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;Проблемы:&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;положительный и отрицательный нули;&lt;br&gt;&lt;/li&gt;&lt;li&gt;сравнение с нулями;&lt;/li&gt;&lt;li&gt;арифметические операции требуют преобразования отрицательных чисел.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="360" width="400" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="pl5QC2sezC5LVriJKC8H-98" value="Все просто, позиция бита отображает степень двойки.&lt;br&gt;&lt;br&gt;&lt;table border=&quot;1&quot; style=&quot;border: 1px solid rgb(0 , 0 , 0) ; border-collapse: collapse&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;7&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;6&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;5&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;4&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;3&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;1&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;1*2&lt;sup&gt;7&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;6&amp;nbsp;&lt;/sup&gt;+ 0*2&lt;sup&gt;5&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;4&amp;nbsp;&lt;/sup&gt;+ 0*2&lt;sup&gt;3&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;2&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;1&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;= 215&lt;sub&gt;10&lt;/sub&gt;&lt;br&gt;Диапазон значений от 0 до 2&lt;sup&gt;n&lt;/sup&gt;&amp;nbsp;- 1, где n - количество бит." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="360" width="370" height="140" as="geometry" />
+        <mxCell id="pl5QC2sezC5LVriJKC8H-98" value="Все просто, позиция бита отображает степень двойки.&lt;br&gt;&lt;br&gt;&lt;table border=&quot;1&quot; style=&quot;border: 1px solid rgb(0 , 0 , 0) ; border-collapse: collapse&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;7&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;6&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;5&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;4&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;3&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;1&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;1*2&lt;sup&gt;7&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;6&amp;nbsp;&lt;/sup&gt;+ 0*2&lt;sup&gt;5&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;4&amp;nbsp;&lt;/sup&gt;+ 0*2&lt;sup&gt;3&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;2&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;1&amp;nbsp;&lt;/sup&gt;+ 1*2&lt;sup&gt;0&lt;/sup&gt;&amp;nbsp;= 215&lt;sub&gt;10&lt;/sub&gt;&lt;br&gt;Диапазон значений от 0 до 2&lt;sup&gt;n&lt;/sup&gt;&amp;nbsp;- 1, где n - количество бит.&lt;br&gt;&lt;br&gt;Переполнение. При прибавлении хотя бы единицы к максимальному числу происходит переполнение, в результате которого старший бит отбрасывается, а остальные сохраняются.&lt;br&gt;&lt;br&gt;&lt;table border=&quot;1&quot; style=&quot;border: 1px solid rgb(0 , 0 , 0) ; border-collapse: collapse&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;1&lt;/td&gt;&lt;td&gt;&amp;nbsp;1&lt;/td&gt;&lt;td&gt;&amp;nbsp;1&lt;/td&gt;&lt;td&gt;&amp;nbsp;1&lt;/td&gt;&lt;td&gt;&amp;nbsp;1&lt;/td&gt;&lt;td&gt;&amp;nbsp;1&lt;/td&gt;&lt;td&gt;&amp;nbsp;1&lt;/td&gt;&lt;td&gt;&amp;nbsp;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(255 , 0 , 0)&quot;&gt;&amp;nbsp;1&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;td&gt;&amp;nbsp;0&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="360" width="360" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
